@@ -1,0 +1,18 @@
+Line 43: Class Threed.SSCommand of control cmdQuit was not a loaded control class.
+Line 55: Class Threed.SSCommand of control cmdRecv was not a loaded control class.
+Line 67: Class Threed.SSCommand of control cmdSend was not a loaded control class.
+Line 49: The property name _version in cmdQuit is invalid.
+Line 50: The property name _extentx in cmdQuit is invalid.
+Line 51: The property name _extenty in cmdQuit is invalid.
+Line 52: The property name _stockprops in cmdQuit is invalid.
+Line 53: The property name caption in cmdQuit is invalid.
+Line 61: The property name _version in cmdRecv is invalid.
+Line 62: The property name _extentx in cmdRecv is invalid.
+Line 63: The property name _extenty in cmdRecv is invalid.
+Line 64: The property name _stockprops in cmdRecv is invalid.
+Line 65: The property name caption in cmdRecv is invalid.
+Line 73: The property name _version in cmdSend is invalid.
+Line 74: The property name _extentx in cmdSend is invalid.
+Line 75: The property name _extenty in cmdSend is invalid.
+Line 76: The property name _stockprops in cmdSend is invalid.
+Line 77: The property name caption in cmdSend is invalid.
